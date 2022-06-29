@@ -1,0 +1,32 @@
+{
+  "vant": {
+    "buttonPrimaryBackgroundColor": "#fb2323FF",
+    "buttonPrimaryBorderColor": "#fb2323FF",
+    "checkboxCheckedIconColor": "#fb2323FF",
+    "numberKeyboardButtonBackgroundColor": "#fb2323FF",
+    "pickerLoadingIconColor": "#fb2323FF",
+    "radioCheckedIconColor": "#fb2323FF",
+    "sliderActiveBackgroundColor": "#fb2323FF",
+    "switchOnBackgroundColor": "#fb2323FF",
+    "dialogConfirmButtonTextColor": "#fb2323FF",
+    "notifyPrimaryBackgroundColor": "#fb2323FF",
+    "circleColor": "#fb2323FF",
+    "progressColor": "#fb2323FF",
+    "progressPivotBackgroundColor": "#fb2323FF",
+    "stepActiveColor": "#fb2323FF",
+    "stepFinishLineColor": "#fb2323FF",
+    "swipeIndicatorActiveBackgroundColor": "#fb2323FF",
+    "tagPrimaryColor": "#fb2323FF",
+    "navBarIconColor": "#fb2323FF",
+    "navBarTextColor": "#fb2323FF",
+    "paginationItemDefaultColor": "#fb2323FF",
+    "tabsDefaultColor": "#fb2323FF",
+    "tabsBottomBarColor": "#fb2323FF",
+    "tabbarItemActiveColor": "#fb2323FF",
+    "treeSelectItemActiveColor": "#fb2323FF",
+    "contactCardAddIconColor": "#fb2323FF",
+    "rateIconFullColor": "#fb2323FF",
+    "submitBarTipColor": "#fb2323FF"
+  },
+  "coustom": {}
+}

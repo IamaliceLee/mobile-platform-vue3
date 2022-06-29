@@ -1,0 +1,32 @@
+{
+  "vant": {
+    "buttonPrimaryBackgroundColor": "#1ba854",
+    "buttonPrimaryBorderColor": "#1ba854",
+    "checkboxCheckedIconColor": "#1ba854",
+    "numberKeyboardButtonBackgroundColor": "#1ba854",
+    "pickerLoadingIconColor": "#1ba854",
+    "radioCheckedIconColor": "#1ba854",
+    "sliderActiveBackgroundColor": "#1ba854",
+    "switchOnBackgroundColor": "#1ba854",
+    "dialogConfirmButtonTextColor": "#1ba854",
+    "notifyPrimaryBackgroundColor": "#1ba854",
+    "circleColor": "#1ba854",
+    "progressColor": "#1ba854",
+    "progressPivotBackgroundColor": "#1ba854",
+    "stepActiveColor": "#1ba854",
+    "stepFinishLineColor": "#1ba854",
+    "swipeIndicatorActiveBackgroundColor": "#1ba854",
+    "tagPrimaryColor": "#1ba854",
+    "navBarIconColor": "#1ba854",
+    "navBarTextColor": "#1ba854",
+    "paginationItemDefaultColor": "#1ba854",
+    "tabsDefaultColor": "#1ba854",
+    "tabsBottomBarColor": "#1ba854",
+    "tabbarItemActiveColor": "#1ba854",
+    "treeSelectItemActiveColor": "#1ba854",
+    "contactCardAddIconColor": "#1ba854",
+    "rateIconFullColor": "#1ba854",
+    "submitBarTipColor": "#1ba854"
+  },
+  "custom": {}
+}
